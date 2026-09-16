@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/Images/flower.jfif</ImageUrl>
+    <NavigateUrl>~/Default.aspx</NavigateUrl>
+    <AlternateText>Logo</AlternateText>
+    <Keyword>Company</Keyword>
+    <Impressions>100</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/inogic.jfif</ImageUrl>
+    <TargetUrl> </TargetUrl>
+    <AlternateText>MCT</AlternateText>
+    <Keyword>Company</Keyword>
+    <Impressions>200</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/roses.jfif</ImageUrl>
+    <TargetUrl> </TargetUrl>
+    <AlternateText>Me</AlternateText>
+    <Keyword>Company</Keyword>
+    <Impressions>300</Impressions>
+  </Ad>
+ 
+</Advertisements>
+
+
